@@ -1,1 +1,1 @@
-##Peacticing Git Command
+##Practising Git Commands
